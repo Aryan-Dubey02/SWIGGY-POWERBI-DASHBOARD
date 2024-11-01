@@ -16,5 +16,4 @@ Data Cleaning and Transformation: Techniques applied to ensure data accuracy and
 # Repository Structure
 swiggy data analysis.pbix: Power BI file containing the dashboard and visualizations.
 # Instructions
-1 Clone the repository.
-2 Open the .pbix file in Power BI Desktop to view and interact with the analysis.
+1 Clone the repository.+ 2 Open the .pbix file in Power BI Desktop to view and interact with the analysis.
